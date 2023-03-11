@@ -1,4 +1,5 @@
 # Creating a synthetic hydrodynamic model with machine learning
+# Using machine learning to create a synthetic hydrodynamic model
 Master thesis
 
 
